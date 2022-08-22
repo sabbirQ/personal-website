@@ -1,0 +1,90 @@
+body{
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+margin: 0%;
+
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(219, 24, 24);
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 120px;
+}
+.half-width img{
+    width: 80%;
+    padding-right: 20%;
+    padding-top: 1px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+section{
+    height: 638px;
+    padding-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(60deg, red, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 720;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+img{
+    float: left;
+}
+.last-work{
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.h1align{
+    text-align: center;
+    margin-top: 150px;
+}
+.img-align{
+    padding-top: 100px;
+    float: left;
+}
+.h3align{
+    text-align: center;
+}
+.plaign{
+    text-align:center;
+}
+#link-align{
+    padding: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(60deg, pink,rgb(62, 133, 111));
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 720;
+}
+.mailalign{
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(201, 107, 122), red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.fuck{
+    padding-left: 500px;
+}
